@@ -1,0 +1,9 @@
+{
+  "name": "applications",
+  "description": "job applications",
+  "contents": [
+    "app1.txt",
+    "app2.txt",
+    "app3/"
+  ]
+}

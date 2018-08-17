@@ -1,0 +1,12 @@
+{
+  "name": "Job application",
+  "description": "...",
+  "structure": {
+    "cv": {
+      "path": "cv.txt",
+      "name": "CV",
+      "description": "Curricculum Vitae"
+    },
+    "applications": "applications/"
+  }
+}
